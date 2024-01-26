@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720756346519",
+    "project_id": "flutterapp-dc726",
+    "storage_bucket": "flutterapp-dc726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720756346519:android:e7ffc1fd2d34ed27ec63d2",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_O9_C0tug8XgCtN7h2tTIBEKJVBcBHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
